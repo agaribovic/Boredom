@@ -11,3 +11,5 @@ Random ideas that I come up with when bored...
   https://codepen.io/Alen1337/pen/ExvedYq
 - Student Index Card:
   https://codepen.io/Alen1337/pen/qBXMJqb
+- Dinamically Create Table:
+  https://codepen.io/Alen1337/details/yLoxRXr
