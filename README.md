@@ -1,5 +1,5 @@
 # Boredom
-Random ideas that I come up with when bored...
+Quick and simple random ideas that I come up with when bored...
 
 - Elevator:
   https://codepen.io/Alen1337/pen/abyaKLd
@@ -13,3 +13,9 @@ Random ideas that I come up with when bored...
   https://codepen.io/Alen1337/pen/qBXMJqb
 - Dinamically Create Table:
   https://codepen.io/Alen1337/details/yLoxRXr
+- Decipher Focusvision Question Example:
+  https://codepen.io/Alen1337/pen/dyzqgZv
+- Word Finder:
+  https://codepen.io/Alen1337/pen/rNzZqda
+- jQuery Animations:
+  https://codepen.io/Alen1337/pen/vYJzVvp
