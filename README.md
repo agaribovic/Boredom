@@ -3,6 +3,10 @@ Quick and simple random ideas that I come up with when bored...
 
 - Elevator:
   https://codepen.io/Alen1337/pen/abyaKLd
+- Synonyms:
+  https://codepen.io/Alen1337/pen/dyzqQEw
+- jQuery Explode:
+  https://codepen.io/Alen1337/pen/ExveGzz
 - To-Do List:
   https://codepen.io/Alen1337/pen/LYjJJyo
 - Bleep Censor:
@@ -19,5 +23,4 @@ Quick and simple random ideas that I come up with when bored...
   https://codepen.io/Alen1337/pen/rNzZqda
 - jQuery Animations:
   https://codepen.io/Alen1337/pen/vYJzVvp
-- Synonyms:
-  https://codepen.io/Alen1337/pen/dyzqQEw
+
