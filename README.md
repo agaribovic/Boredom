@@ -19,3 +19,5 @@ Quick and simple random ideas that I come up with when bored...
   https://codepen.io/Alen1337/pen/rNzZqda
 - jQuery Animations:
   https://codepen.io/Alen1337/pen/vYJzVvp
+- Synonyms:
+- https://codepen.io/Alen1337/pen/dyzqQEw
