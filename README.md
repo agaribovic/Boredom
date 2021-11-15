@@ -1,10 +1,10 @@
 # Boredom
 Quick and simple random ideas that I come up with when bored...
 
+- Dictionary:
+  https://codepen.io/Alen1337/pen/XWayNgG
 - Elevator:
   https://codepen.io/Alen1337/pen/abyaKLd
-- Synonyms:
-  https://codepen.io/Alen1337/pen/dyzqQEw
 - jQuery Explode:
   https://codepen.io/Alen1337/pen/ExveGzz
 - To-Do List:
