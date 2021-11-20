@@ -3,6 +3,8 @@ Quick and simple random ideas that I come up with when bored...
 
 - Dictionary:
   https://codepen.io/Alen1337/pen/XWayNgG
+- Tic-Tac-Toe:
+  https://codepen.io/Alen1337/pen/MWvLNZj
 - Elevator:
   https://codepen.io/Alen1337/pen/abyaKLd
 - jQuery Explode:
