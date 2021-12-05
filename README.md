@@ -23,8 +23,12 @@ Quick and simple random ideas that I come up with when bored...
   https://codepen.io/Alen1337/pen/dyzqgZv
 - Word Finder:
   https://codepen.io/Alen1337/pen/rNzZqda
-- jQuery Animations:
+- jQuery Test:
   https://codepen.io/Alen1337/pen/vYJzVvp
 - Gamers.ba
   https://codepen.io/Alen1337/pen/yLoxwbO
+- Accordion
+  https://codepen.io/Alen1337/pen/VwMvoRX
+- Carousel
+  https://codepen.io/Alen1337/pen/BawoXeE
 
