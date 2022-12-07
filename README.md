@@ -33,4 +33,6 @@ Quick and simple random ideas that I come up with when bored...
   https://codepen.io/Alen1337/pen/BawoXeE
 - Semaphore
   https://codepen.io/Alen1337/pen/vYpbPbp
+- Statistics
+  https://codepen.io/Alen1337/pen/YzvRVjg
 
