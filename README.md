@@ -35,4 +35,8 @@ Quick and simple random ideas that I come up with when bored...
   https://codepen.io/Alen1337/pen/vYpbPbp
 - Statistics
   https://codepen.io/Alen1337/pen/YzvRVjg
+- To-Do List /w Local Storage
+  https://codepen.io/Alen1337/pen/qBKGgpE
+- Spotify
+  https://codepen.io/Alen1337/pen/GRPxJPQ
 
